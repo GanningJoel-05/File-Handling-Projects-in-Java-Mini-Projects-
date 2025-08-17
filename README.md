@@ -25,9 +25,7 @@ This repo is part of my backend development journey, where I'm:
 |        Project Name       |                    Description                                       |      Status     |
 |---------------------------|----------------------------------------------------------------------|-----------------|
 | **LogMaster**             | A simple logger that writes timestamped logs to a file.              |  Completed ✅  |
-| *Student's Notes Manager* | Manage your study notes with add, view, search and delete features." |  Completed ✅  |
-| *(Coming Soon)*           | File-based User Authentication                                       | 🚧 In Progress |
-| *(Coming Soon)*           | Directory Scanner with Filters                                       | 🚧 In Progress |
+| *Student's Notes Manager* | Manage your study notes with add, view, search and delete features. |  Completed ✅  |
 
 ---
 
