@@ -42,3 +42,10 @@ Each project is self-contained. To run:
 4. Run the Main.java file
 
 ---
+
+## ⭐ Support
+
+If you find this repository helpful or inspiring, **please consider giving it a star**!  
+It motivates me to keep learning, building, and sharing more mini projects like these.
+
+Thank you for visiting! 😊
