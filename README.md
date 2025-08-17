@@ -43,6 +43,16 @@ Each project is self-contained. To run:
 
 ---
 
+## 🏷️ Badges
+
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)
+![IDE](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellij-idea&logoColor=white)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-purple)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
 ## ⭐ Support
 
 If you find this repository helpful or inspiring, **please consider giving it a star**!  
