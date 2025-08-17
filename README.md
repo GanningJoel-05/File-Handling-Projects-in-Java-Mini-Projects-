@@ -42,22 +42,3 @@ Each project is self-contained. To run:
 4. Run the Main.java file
 
 ---
-
-🌱 Learning Goals
-- Master Java I/O streams and buffering
-- Understand file lifecycle and permissions
-- Apply exception handling and resource cleanup
-- Build reusable utilities for backend systems
-
----
-
-🙋‍♂️ About Me
-I'm Ganning Joel, an aspiring Java Backend Developer with a passion for clean code, creative learning, and real-world problem solving. This repo is part of my journey toward building robust backend systems using Java and Spring Boot.
-📬 Connect with me on LinkedIn or explore more of my work!
-
---- 
-
-📜 License
-All projects in this repository are open-source under the MIT License. Feel free to fork, learn, and build upon them!
-
----
