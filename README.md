@@ -13,14 +13,14 @@ Each project is designed to reinforce concepts like:
 ## 🎯 Purpose
 
 This repo is part of my backend development journey, where I'm:
-- Strengthening my understanding of Java I/O
-- Practicing clean code and modular design
-- Preparing for real-world backend scenarios
-- Building portfolio-ready mini projects
+- Strengthening my understanding of Java I/O.
+- Practicing clean code and modular design.
+- Preparing for real-world backend scenarios.
+- Building portfolio-ready mini projects.
 
 ---
 
-## 📁 Project List
+## 📁 Projects List
 
 |        Project Name       |                    Description                                       |      Status     |
 |---------------------------|----------------------------------------------------------------------|-----------------|
@@ -29,7 +29,7 @@ This repo is part of my backend development journey, where I'm:
 
 ---
 
-## 🛠️ How to Run
+## 🛠️ How to Run the Project:
 
 Each project is self-contained. To run:
 1. Clone the repository:
